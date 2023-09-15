@@ -2,16 +2,16 @@
 
 [![Dhagash's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhagash4&theme=dark&background=000000)](https://git.io/streak-stats)
 
-I am enrolled as Masters student in Geodetic Engineering with specialization in Mobile Sensing and Robotics at University of Bonn in Germany.
-Currently, I am working with Mercedes-Benz AG as master thesis student on the topic of motion prediction. 
+I am enrolled as a master's student in Geodetic Engineering with a specialization in Mobile Sensing and Robotics at the University of Bonn in Germany.
+Currently, I am working with Mercedes-Benz AG as a master's thesis student on the topic of motion prediction. 
 
-- 🔭 My interests: robotics, computer vision, deep learning.
+- 🔭 My interests: Robotics, Computer Vision, Deep Learning.
 
 - 🌱 I’m always eager to expand my knowledge in the following fields and (beyond).
 
-- 💬 Ask me about Robot Operating System, Computer Vision, Deep Learning, probabilistic robotics.
+- 💬 Ask me about Robot Operating System, Computer Vision, Deep Learning, and Probabilistic Robotics.
 
-- 📎 You can find my CV [here](cv.pdf)
+- 📎 You can find my resume [here](cv.pdf)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dhagash-desai/">
