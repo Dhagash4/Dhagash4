@@ -14,7 +14,7 @@ Currently,I am working with Mercedes-Benz AG as master thesis student on the top
 
 - 💬 Ask me about Robot Operating System, Computer Vision, Deep Learning, probabilistic robotics
 
-- Here you can find my [CV](cv_dhagash.pdf)
+- Here you can find my [CV](cv.pdf)
 <!--
 **Dhagash4/Dhagash4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
