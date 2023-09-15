@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Dhagash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhagash4)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhagash4&theme=dark&background=000000)](https://git.io/streak-stats) -->
+[![Dhagash's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhagash4&theme=dark&background=000000)](https://git.io/streak-stats)
 
 I am enrolled as Masters student in Geodetic Engineering with specialization in Mobile Sensing and Robotics at University of Bonn in Germany.
 Currently,I am working with Mercedes-Benz AG as master thesis student on the topic of motion prediction. 
