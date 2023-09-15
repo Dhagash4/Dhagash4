@@ -9,11 +9,9 @@ Currently, I am working with Mercedes-Benz AG as master thesis student on the to
 
 - 🌱 I’m always eager to expand my knowledge in the following fields and (beyond).
 
-<!-- - 📫 Reach me at [desai.dhagash@gmail.com](desai.dhagash@gmail.com) -->
-
 - 💬 Ask me about Robot Operating System, Computer Vision, Deep Learning, probabilistic robotics.
 
-- Here you can find my [CV](cv.pdf)
+- 📎 You can find my CV [here](cv.pdf)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dhagash-desai/">
