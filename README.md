@@ -5,11 +5,11 @@
 I am enrolled as a master's student in Geodetic Engineering with a specialization in Mobile Sensing and Robotics at the University of Bonn in Germany.
 Currently, I am working with Mercedes-Benz AG as a master's thesis student on the topic of motion prediction. 
 
-- 🔭 My interests: Robotics, Computer Vision, Deep Learning.
+- 🔭 My interests: Robotics, 3D perception, Autonomous Driving, Motion-prediction, perception.
 
 - 🌱 I’m always eager to expand my knowledge in the following fields and (beyond).
 
-- 💬 Ask me about Robot Operating System, Computer Vision, Deep Learning, and Probabilistic Robotics.
+- 💬 Ask me about Robot Operating System, Computer Vision, Deep Learning, Probabilistic Robotics.
 
 - 📎 You can find my resume [here](cv.pdf)
 
