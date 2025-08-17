@@ -2,10 +2,9 @@
 
 [![Dhagash's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dhagash4&theme=dark&background=000000)](https://git.io/streak-stats)
 
-I finished my master's in Geodetic Engineering with a specialization in Mobile Sensing and Robotics at the University of Bonn in Germany.
-Currently, busy building robots.
+💻 Computer Vision Engineer at SmartAIs (Munich, Germany) — I work on real-time obstacle detection and perception systems for visually impaired users, focusing on efficient C++ deployment on edge devices.
 
-- 🔭 My interests: Robotics, 3D perception, Autonomous Driving, Motion-prediction, Perception.
+🎓 I hold a Master’s in Geodetic Engineering (Mobile Sensing & Robotics) from the University of Bonn, Germany. My master’s thesis at Mercedes-Benz AG explored interpretable motion prediction for autonomous vehicles — you can read it [here](thesis.pdf).
 
 - 🌱 I’m always eager to expand my knowledge in the following fields and (beyond).
 
