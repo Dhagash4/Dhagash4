@@ -6,11 +6,9 @@
 
 🎓 I hold a Master’s in Geodetic Engineering (Mobile Sensing & Robotics) from the University of Bonn, Germany. My master’s thesis at Mercedes-Benz AG explored interpretable motion prediction for autonomous vehicles — you can read it [here](thesis.pdf).
 
-- 🌱 I’m always eager to expand my knowledge in the following fields and (beyond).
+💬 Ask me about Robot Operating Systems, Computer Vision, Deep Learning, and Probabilistic Robotics.
 
-- 💬 Ask me about Robot Operating Systems, Computer Vision, Deep Learning, and Probabilistic Robotics.
-
-- 📎 You can find my resume [here](cv.pdf)
+📎 You can find my resume [here](cv.pdf)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/dhagash-desai/">
